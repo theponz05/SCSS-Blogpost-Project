@@ -42,6 +42,12 @@ body {
           align-items: center;
 }
 
+
+.heading-primary-main {
+  font-size: 6rem;
+  letter-spacing: 1rem;
+  text-shadow: 3px 3px #ffffff;
+}
 .heading-primary-sub {
   font-size: 4rem;
   
